@@ -1,0 +1,14 @@
+{
+  "nome": "Dr. Carlos Andrade",
+  "email": "carlos.andrade@email.com",
+  "telefone": "67999887766",
+  "cpf": "06048587899",
+  "endereco": {
+    "logradouro": "Rua do Cascão",
+    "numero": "112",
+    "bairro": "Lot. Costa Verde",
+    "cidade": "Campo Grande",
+    "uf": "MS",
+    "cep": "79012568"
+  }
+}
