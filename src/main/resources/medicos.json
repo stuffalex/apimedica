@@ -1,0 +1,36 @@
+{
+  "medicos": [
+    {
+      "nome": "Dr. Carlos Andrade",
+      "email": "carlos.andrade@email.com",
+      "telefone": "67999887766",
+      "crm": "12345MS",
+      "especialidade": "ORTOPEDIA",
+      "endereco": {
+        "logradouro": "Rua das Flores",
+        "numero": "123",
+        "complemento": "Sala 301",
+        "bairro": "Centro",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "cep": "79002123"
+      }
+    },
+    {
+      "nome": "Dra. Ana Paula Martins",
+      "email": "ana.martins@email.com",
+      "telefone": "67988776655",
+      "crm": "67890MS",
+      "especialidade": "DERMATOLOGIA",
+      "endereco": {
+        "logradouro": "Avenida Afonso Pena",
+        "numero": null,
+        "complemento": "",
+        "bairro": "Jardim dos Estados",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "cep": "79020000"
+      }
+    }
+  ]
+}
